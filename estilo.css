@@ -1,0 +1,12 @@
+body{background-color: rgb(250, 181, 181);}
+header{background-color: rgb(195, 69, 69);}
+h1{color: rgb(255, 255, 255);text-align: center;}
+table{margin-top: 50px;margin-left: 300px;}
+form{margin-top: 50px;margin-left: 150px;margin-right: 50px;display: block;}
+label{display: block;margin-bottom: 10px;}
+footer{background-color: rgb(195, 69, 69);margin-top: 50px;padding: 20px;text-align: center;margin: 50px;}
+a{color:aliceblue;margin: 50px;}
+button{background-color: rgb(13, 3, 126);margin-top: 10px;color: white;}
+button:hover{background-color: rgb(249, 249, 251);color: rgb(209, 75, 75);}
+.container{display: flex;gap: 40px;margin-left: 120px; margin-right: 50px;}
+.container2{display: flex;margin-left: 200px;margin-top: 50px;}
